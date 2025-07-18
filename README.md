@@ -52,7 +52,7 @@ frontend/
 
 ## Demonstração
 
-Adicione aqui um screenshot do site para ilustrar o layout.
+![Eshop Screenshot](frontend/public/ecommercedem.png)
 
 ## Autor
 
