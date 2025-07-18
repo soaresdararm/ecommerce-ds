@@ -79,7 +79,7 @@ export const Category = () => {
             </div>
             <img
               src={Image3}
-              className="w-[250px] absolute top-1/2 -translate-y-1/2 -right-0"
+              className="w-[250px] absolute top-1/2 -translate-y-1/2 -right-0 sm:w-[300px] lg:w-[350px]"
               alt=""
             />
           </div>
